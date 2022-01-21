@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Space Exploration
 - 🌱 I’m currently researching on NLP and various use cases(Universal Translation)
 - 💞️
-- 📫 How to reach me..................just dm me lol
+- 📫 How to reach me..................just dm me lol, twitter.com/xelblaze
 
 <!---
 axelonrampage/axelonrampage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
