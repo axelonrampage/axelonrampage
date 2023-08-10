@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @axelonrampage
+- 👋 Hi, I’m @Shubham
 - 👀 I’m interested in AI and Space Exploration
-- 🌱 I’m currently researching on NLP and various use cases(Universal Translation)
-- 💞️
-- 📫 How to reach me..................just dm me lol, twitter.com/xelblaze
+- 🌱 I’m currently researching and working on NLP and various use cases(Universal Translation)
+- 📫 How to reach me.................. gigzila1@gmail.com
 
 <!---
 axelonrampage/axelonrampage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
